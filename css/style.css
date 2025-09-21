@@ -1,0 +1,23 @@
+.bold{
+    font-weight: 900;
+}
+.cur{
+    font-style: italic;
+}
+.font{
+    font-family: monospace;
+}
+.color{
+    color: firebrick;
+} 
+.bg{
+    background: lavender;
+}
+.sublist {
+    list-style-type: square;
+}
+.right-img {
+    float: right;         /* прижимаем картинку влево */
+    width: 450px; /* ширина картинки (можно менять) */
+    height: 200px;
+}
