@@ -17,7 +17,7 @@
     list-style-type: square;
 }
 .right-img {
-    float: right;         /* прижимаем картинку влево */
-    width: 450px; /* ширина картинки (можно менять) */
+    float: right;         /* прижимаем картинку вправо */
+    width: 450px; 
     height: 200px;
 }
